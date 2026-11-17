@@ -235,7 +235,7 @@ export default function AutoLuxWebsite() {
 
       {/* FOOTER */}
       <footer className="border-t border-zinc-800 py-10 text-center text-gray-500">
-        © 2026 AutoLux Parts. All Rights Reserved.
+        © 2026 AutoLux Parts. All Rights not Reserved.
       </footer>
     </div>
   );
